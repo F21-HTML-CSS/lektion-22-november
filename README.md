@@ -8,9 +8,9 @@ Gör er insurance-sida responsiv!
 
 **BEM:** http://getbem.com/introduction
 
-**Media queries: ** https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Media_queries
+**Media queries:** https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Media_queries
 
-**Media queries: ** https://css-tricks.com/a-complete-guide-to-css-media-queries/
+**Media queries:** https://css-tricks.com/a-complete-guide-to-css-media-queries/
 
 ## Videor
 
